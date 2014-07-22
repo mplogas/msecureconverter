@@ -148,7 +148,7 @@ namespace PassConverter
                     //hostname
                     sb.Append(Constants.OutputDelimiter);
                     //extra
-                    CombineExtras();
+                    sb.Append(CombineExtras());
                     sb.Append(Constants.OutputDelimiter);
                     //name
                     sb.Append(Name);
