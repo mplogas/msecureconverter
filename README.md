@@ -1,4 +1,5 @@
-﻿# Why?
+﻿
+# Why?
 Because I was looking for an mSecure -> lastPass converter but couldn't find one. So I built one myself.
 
 # How?
@@ -7,4 +8,4 @@ You can also set up your mSecure categories there, as well as delimiters, but yo
 The resulting output is dependent on the category and can be adjusted in the Entry.cs class by modifiying the ToCSVString() method.
 
 # Copyright & left?
-[MIT licensed](./LICENSE.md)
+[MIT licensed](LICENSE.md)
